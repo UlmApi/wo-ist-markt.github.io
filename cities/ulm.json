@@ -10,7 +10,7 @@
             },
             "properties": {
                 "title": "Ulmer Wochenmarkt",
-                "location": "Münsterplatz Ulm",
+                "location": "Münsterplatz",
                 "opening_hours": "We 06:00-13:00;Sa 06:00-13:00"
             },
             "type": "Feature"
@@ -41,7 +41,7 @@
             "properties": {
                 "title": "Wochenmarkt Ulm-Söflingen",
                 "location": "Klosterhof Söflingen",
-                "opening_hours": "Fr 08:00-18:00"
+                "opening_hours": "Fr 14:00-18:00"
             },
             "type": "Feature"
         }
